@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "https://bouncingtig.github.io/csb-nzh39w/static/css/main.ba0e281d.css",
+    "main.js": "https://bouncingtig.github.io/csb-nzh39w/static/js/main.dfdc7872.js",
+    "static/media/Jay2.jpg": "https://bouncingtig.github.io/csb-nzh39w/static/media/Jay2.e4a4e3fff05082b8e0a1.jpg",
+    "static/media/PubQuiz1.avif": "https://bouncingtig.github.io/csb-nzh39w/static/media/PubQuiz1.5ce3eba6d7b1d30ffc9e.avif",
+    "static/media/HeroIMG.avif": "https://bouncingtig.github.io/csb-nzh39w/static/media/HeroIMG.b11e2b8e0a7e0d3f8a70.avif",
+    "static/media/zoomquiz1.avif": "https://bouncingtig.github.io/csb-nzh39w/static/media/zoomquiz1.c7b5ff5cc4d431d50ed9.avif",
+    "static/media/paper1.avif": "https://bouncingtig.github.io/csb-nzh39w/static/media/paper1.492c4e12669066b90871.avif",
+    "index.html": "https://bouncingtig.github.io/csb-nzh39w/index.html",
+    "main.ba0e281d.css.map": "https://bouncingtig.github.io/csb-nzh39w/static/css/main.ba0e281d.css.map",
+    "main.dfdc7872.js.map": "https://bouncingtig.github.io/csb-nzh39w/static/js/main.dfdc7872.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba0e281d.css",
+    "static/js/main.dfdc7872.js"
+  ]
+}
